@@ -1,2 +1,0 @@
-module RelacionesBanco_profe {
-}
